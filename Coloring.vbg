@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=Coloring.vbp
+Project=Pencil.vbp
+Project=Tools.vbp
